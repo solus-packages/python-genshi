@@ -1,8 +1,8 @@
 name       : python-genshi
-version    : 0.7.5
-release    : 3
+version    : 0.7.6
+release    : 4
 source     :
-    - https://files.pythonhosted.org/packages/source/G/Genshi/Genshi-0.7.5.tar.gz : c12d6c2abf7df0ec661d9ff2e197522eae846e43dc58abd5a36443d05bc41135
+    - https://files.pythonhosted.org/packages/source/G/Genshi/Genshi-0.7.6.tar.gz : 34a2ce8b80e843f620c5b7b7e59aaa362a76ce9764a6f11032283ed9458c3a59
 homepage   : https://genshi.edgewall.org/
 license    : BSD-3-Clause
 component  : programming.python
