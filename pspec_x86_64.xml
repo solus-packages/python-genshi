@@ -3,8 +3,8 @@
         <Name>python-genshi</Name>
         <Homepage>https://genshi.edgewall.org/</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Beatrice T. Meyers</Name>
+            <Email>root@datadrake.com</Email>
         </Packager>
         <License>BSD-3-Clause</License>
         <PartOf>programming.python</PartOf>
@@ -125,12 +125,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="4">
-            <Date>2022-02-22</Date>
+        <Update release="5">
+            <Date>2022-02-23</Date>
             <Version>0.7.6</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Beatrice T. Meyers</Name>
+            <Email>root@datadrake.com</Email>
         </Update>
     </History>
 </PISI>

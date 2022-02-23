@@ -1,6 +1,6 @@
 name       : python-genshi
 version    : 0.7.6
-release    : 4
+release    : 5
 source     :
     - https://files.pythonhosted.org/packages/source/G/Genshi/Genshi-0.7.6.tar.gz : 34a2ce8b80e843f620c5b7b7e59aaa362a76ce9764a6f11032283ed9458c3a59
 homepage   : https://genshi.edgewall.org/
