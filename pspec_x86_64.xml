@@ -3,8 +3,8 @@
         <Name>python-genshi</Name>
         <Homepage>https://genshi.edgewall.org/</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>BSD-3-Clause</License>
         <PartOf>programming.python</PartOf>
@@ -20,117 +20,117 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/Genshi-0.7.7-py3.9.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/builder.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/compat.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/core.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/input.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/output.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/path.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/__pycache__/util.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/_speedups.c</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/_speedups.cpython-39-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/builder.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/compat.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/core.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/__pycache__/html.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/__pycache__/i18n.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/__pycache__/transform.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/html.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/i18n.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/__pycache__/i18n.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/__pycache__/test_html.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/__pycache__/transform.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/i18n.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/test_html.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/tests/transform.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/filters/transform.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/input.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/output.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/path.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/astutil.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/base.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/directives.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/eval.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/interpolation.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/loader.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/markup.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/plugin.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/__pycache__/text.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/astutil.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/base.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/directives.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/eval.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/interpolation.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/loader.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/markup.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/plugin.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/base.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/directives.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/eval.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/interpolation.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/loader.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/markup.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/plugin.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/__pycache__/text.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/base.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/directives.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/eval.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/interpolation.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/loader.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/markup.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/plugin.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/functions.html</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/functions.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/new_syntax.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/test.html</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/test.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/templates/test_no_doctype.html</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/tests/text.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/template/text.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/builder.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/core.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/input.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/output.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/path.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/test_utils.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/__pycache__/util.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/builder.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/core.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/input.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/output.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/path.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/test_utils.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/tests/util.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/genshi/util.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/Genshi-0.7.7-py3.10.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/builder.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/compat.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/core.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/input.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/output.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/path.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/__pycache__/util.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/_speedups.c</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/_speedups.cpython-310-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/builder.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/compat.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/core.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/__pycache__/html.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/__pycache__/i18n.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/__pycache__/transform.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/html.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/i18n.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/__pycache__/i18n.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/__pycache__/test_html.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/__pycache__/transform.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/i18n.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/test_html.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/tests/transform.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/filters/transform.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/input.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/output.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/path.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/astutil.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/base.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/directives.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/eval.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/interpolation.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/loader.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/markup.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/plugin.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/__pycache__/text.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/astutil.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/base.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/directives.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/eval.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/interpolation.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/loader.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/markup.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/plugin.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/base.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/directives.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/eval.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/interpolation.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/loader.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/markup.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/plugin.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/__pycache__/text.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/base.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/directives.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/eval.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/interpolation.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/loader.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/markup.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/plugin.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/functions.html</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/functions.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/new_syntax.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/test.html</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/test.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/templates/test_no_doctype.html</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/tests/text.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/template/text.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/builder.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/core.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/input.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/output.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/path.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/test_utils.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/__pycache__/util.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/builder.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/core.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/input.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/output.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/path.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/test_utils.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/tests/util.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/genshi/util.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2022-04-22</Date>
+        <Update release="7">
+            <Date>2022-04-26</Date>
             <Version>0.7.7</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>
